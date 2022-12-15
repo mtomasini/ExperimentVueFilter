@@ -1,0 +1,226 @@
+[
+  {
+    "id": "strand",
+    "title": "Pehr Strands flöjtur",
+    "description": "A source of information about Pehr Strand and his organ clocks.",
+    "links": [
+      {
+        "label": "The publication",
+        "url": "https://strand.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://strand.dh.gu.se/om-forskningsprojektet"
+      }
+    ],
+    "color": "rgb(252, 158, 144)",
+    "image": "strand.jpg",
+    "tags": ["Publication", "Art", "History"]
+  },
+  {
+    "id": "nordiskfamiljebok",
+    "title": "Nordisk familjebok",
+    "description": "Digital publication of Nordisk familjebok.",
+    "links": [
+      {
+        "label": "The publication",
+        "url": "https://nordiskfamiljebok.dh.gu.se/"
+      }
+    ],
+    "color": "rgb(231, 217, 170)",
+    "image": "nordiska.jpg",
+    "tags": ["Publication", "Language", "History"]
+  },
+  {
+    "id": "iconographia",
+    "title": "Iconographia Mediaevalis Suetica",
+    "description": "A spatial exploration of Swedish medieval iconography.",
+    "links": [
+      {
+        "label": "The platform",
+        "url": "https://iconographia.dh.gu.se/"
+      }
+    ],
+    "color": "rgb(236, 235, 224)",
+    "image": "iconographia2.jpg",
+    "tags": ["Art", "Religion", "History", "Platform"]
+  },
+  {
+    "id": "antarctica",
+    "title": "Built Cultural Heritage in Antarctica",
+    "description": "Historical remains of the First Swedish Antarctic Expedition 1901-1903.",
+    "links": [
+      {
+        "label": "The publication",
+        "url": "https://antarctica.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/chaq2020-cultural-heritage-antarctica"
+      }
+    ],
+    "color": "rgb(232, 224, 200)",
+    "image": "antarctica2.jpg",
+    "tags": ["Publication", "History"]
+  },
+  {
+    "id": "somaliprosody",
+    "title": "Somali Prosody Database",
+    "description": "Recorded units of Somali words, phrases and clauses.",
+    "links": [
+      {
+        "label": "The platform",
+        "url": "https://somaliprosody.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/somali-and-prosodic-typology"
+      }
+    ],
+    "color": "rgb(253, 243, 200)",
+    "image": "somaliprosody1.jpg",
+    "tags": ["Platform", "Language"]
+  },
+  {
+    "id": "tvt",
+    "title": "Topography Visualisation Toolbox",
+    "description": "Tools to enhance topographic variations in surface meshes and digital elevation models.",
+    "links": [
+      {
+        "label": "The tool",
+        "url": "https://tvt.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/rock-art-in-three-dimensions-documentation-research-and-outreach"
+      }
+    ],
+    "color": "rgb(187, 237, 157)",
+    "image": "tvt.jpg",
+    "tags": ["Tool", "History"]
+  },
+  {
+    "id": "voyager",
+    "title": "Voyager",
+    "description": "An agent-based simulation system capable of generating seafaring trajectories in a real-world geography. ",
+    "links": [
+      {
+        "label": "The tool",
+        "url": "https://voyager.dh.gu.se/"
+      }
+    ],
+    "color": "rgb(196, 237, 252)",
+    "image": "voyager.jpg",
+    "tags": ["Tool", "History"]
+  },
+  {
+    "id": "expansion",
+    "title": "Expansion and Diversity",
+    "description": "Digitally mapping and exploring independent performance in Gothenburg 1965−2000",
+    "previewLabel": "Project tool",
+    "links": [
+      {
+        "label": "The project tool ",
+        "url": "https://expansion.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/expansion-and-diversity-digitally-mapping-and-exploring-independent-performance-in-gothenburg-1965-2000"
+      }
+    ],
+    "color": "rgb(255, 209, 98)",
+    "image": "expansionwide.jpg",
+    "tags": ["Project Tool", "Platform", "Art", "Society"]
+  },
+  {
+    "id": "arosenius",
+    "title": "The Arosenius Archive",
+    "description": "Conjuring up the Artist from the Archives: art and documents pertaining to Ivar Arosenius",
+    "links": [
+      {
+        "label": "The platform ",
+        "url": "http://aroseniusarkivet.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/conjuring-up-the-artist-from-the-archive-the-arosenius-project"
+      }
+    ],
+    "color": "rgb(134, 197, 202)",
+    "image": "arosenius.jpg",
+    "tags": ["Platform", "Art"]
+  },
+  {
+    "id": "moravian",
+    "title": "Moravian Lives",
+    "description": "Tracing the Movements and History of Members of the Moravian Church (1750−2012)",
+    "links": [
+      {
+        "label": "The platform ",
+        "url": "http://moravianlives.org/map/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/tracing-movements-and-history-members-moravian-church-1750-2012/"
+      }
+    ],
+    "color": "rgb(229, 134, 84)",
+    "image": "moravian2.jpg",
+    "tags": ["Platform", "Religion", "Literature"]
+  },
+  {
+    "id": "queensdiadem",
+    "title": "The Queen's Diadem",
+    "description": "A digital platform",
+    "previewLabel": "Prototype",
+    "links": [
+      {
+        "label": "The prototype ",
+        "url": "https://digitaltperspektiv.firebaseapp.com/fokus/drottningens-juvelsmycke/hem"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/queens-diadem-digital-platform/"
+      }
+    ],
+    "color": "rgb(214, 137, 192)",
+    "image": "diadem2.jpg",
+    "tags": ["Prototype", "Literature"]
+  },
+  {
+    "id": "riksdagsmotioner",
+    "title": "Riksdagsmotioner",
+    "description": "Find and read Swedish parliamant motions",
+    "links": [
+      {
+        "label": "The platform ",
+        "url": "https://riksdagsmotioner.dh.gu.se/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/en/research/hitta-och-las-riksdagsmotioner/"
+      }
+    ],
+    "color": "rgb(226, 204, 149)",
+    "image": "motioner2.jpg",
+    "tags": ["Platform", "Society"]
+  },
+  {
+    "id": "minnenavselma",
+    "title": "Minnen av Selma Lagerlöf",
+    "description": "En digital utställning där läsarnas Lagerlöf tillgängliggörs för allmänheten.",
+    "links": [
+      {
+        "label": "The platform ",
+        "url": "http://minnenavselma.org/"
+      },
+      {
+        "label": "The project",
+        "url": "https://www.gu.se/forskning/minnen-av-selma-lagerlof"
+      }
+    ],
+    "color": "rgb(235, 171, 87)",
+    "image": "selma.jpg",
+    "tags": ["Platform", "Literature"]
+  }
+]
