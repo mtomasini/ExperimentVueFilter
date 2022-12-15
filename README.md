@@ -1,29 +1,15 @@
 # filter_exercise
 
-This template should help get you started developing with Vue 3 in Vite.
+In this repository, I work on my inexistent, under-developed skills in Vue.js. My goal is to build a search bar to search through a JSON file I use in a different project (`/src/assets/platforms.json`).
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Setup, compilation, production
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
 npm run build
 ```
